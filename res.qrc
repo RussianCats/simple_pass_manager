@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>bash/create.sh</file>
+        <file>bash/unmount.sh</file>
+        <file>bash/mount.sh</file>
+    </qresource>
+</RCC>
